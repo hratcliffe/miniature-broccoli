@@ -1,6 +1,6 @@
 #We've created a file called 'code_example.py' where we have put the code to test
 # Write the command to import everything from it
-from code import *
+from code_example import *
 
 from random import random
 def test_integer_roots():
